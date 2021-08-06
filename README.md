@@ -1,24 +1,5 @@
-# README
+# Crypto News Network
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello all! Kerwin Mayorga returns to Ruby Developement with a brand new application for displaying Crypto data and a large selection of blog posts to stay up to date on the latest news for all things Crypto.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Follow me on Instagram @FeelGraphics
